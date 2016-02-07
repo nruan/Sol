@@ -1,2 +1,2 @@
 # Sol
-Git Repository for Project Sol, a Exploratory Sci-Fi game to be enjoyed with friends. Made in Unreal Engine 4.
+Git Repository for Project Sol, an exploratory Sci-Fi game to be enjoyed with friends. Made in Unreal Engine 4.
